@@ -1,3 +1,10 @@
+
+layout: post
+title: "AS-REPRoasting"
+date: 2024-09-12
+categories: [Danh mục]
+tags: [tag1, tag2]
+
 ## AS-REPRoasting
 
 https://book.hacktricks.xyz/windows-hardening/active-directory-methodology/asreproast
