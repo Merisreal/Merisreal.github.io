@@ -1,11 +1,12 @@
-
+---
 layout: post
 title: "AS-REPRoasting"
-date: 2024-09-12
+date: 2024-09-20
 categories: [Danh mục]
 tags: [tag1, tag2]
+---
 
-## AS-REPRoasting
+
 
 https://book.hacktricks.xyz/windows-hardening/active-directory-methodology/asreproast
 https://sec.vnpt.vn/2023/01/ky-thuat-attacking-kerberos-as-rep-roasting/
